@@ -36,7 +36,7 @@ I’m passionate about cybersecurity and thrive on tackling complex challenges a
   - [Setting up a mock student desktop environment and attacking it with Malware](https://github.com/trevinoparker7/ransomware-attack)
  
 - <b> Creating Stealth Keylogger To Attack "Family" PC </b>
-  - [Creating a mock family home PC & steathly applying a keylogger to get info from everyone](https://github.com/trevinoparker7/ransomware-attack)
+  - [Creating a mock family home PC & steathly applying a keylogger to get info from everyone](https://github.com/trevinoparker7/keylogger)
 
 
 <h2>🤖 Coding Projects:</h2>
