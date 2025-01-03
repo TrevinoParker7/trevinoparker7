@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/trevinoparker/">Hi, I'm Trevino! </a><br/> Programmer, Cybersecurity Professional🔐 </h1>
+<h1>Hi<a href="https://www.linkedin.com/in/trevinoparker/">, I'm Trevino! </a><br/> Programmer, Cybersecurity Professional🔐 </h1>
 I’m passionate about cybersecurity and thrive on tackling complex challenges as a SOC Analyst. Through hands-on projects focused on vulnerability management and threat detection, I’ve gained valuable experience in navigating the dynamic landscape of cybersecurity. Feel free to explore my work and see how I’ve contributed to enhancing security operations and processes!
 
 <h2>👨‍💻 Cloud/CyberSecurity Projects:</h2>
