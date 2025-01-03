@@ -6,7 +6,10 @@ I’m passionate about cybersecurity and thrive on tackling complex challenges a
  <b> 🟣 PURPLE TEAM 🟣 </b> <br/>
 
 - <b> Creating A Live Soc + Honeynet In Azure </b>
-  - [Implementing a SOC & Honeynet; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc) <i><b>(Live Traffic)</b></i>
+  - [Implementing a SOC & Honeynet With Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc) <i><b>(Live Traffic)</b></i>
+
+- <b> Created A SIEM With Spluck </b>
+  - [I Setup A SOC with Splunk; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM) <i><b>(Live Traffic)</b></i>
 
 <b> 🔵 BLUE TEAM 🔵 </b> <br/>
 
