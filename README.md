@@ -39,9 +39,7 @@
 ---
 
 <h2>🤖 Coding Projects:</h2>
-- **[Web Development Portfolio](https://trevinoportfolio2024.netlify.app)**  
-
----
+- **[Web Development Portfolio] https://trevinoportfolio2024.netlify.app/
 
 <h2>📺 YouTube Videos:</h2>
 #### 👔 My Internship
