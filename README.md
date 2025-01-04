@@ -3,7 +3,6 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/trevinoparker7"><img src="https://img.shields.io/github/followers/trevinoparker7?label=Follow&style=for-the-badge&logo=GitHub"></a>
 </div>
 
 ---
@@ -23,12 +22,12 @@
 #### ⚠️ Vulnerability Management Projects
 - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
 - **[STIG Implementations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**  
-
+- **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
+- 
 #### 🚨 Threat Hunting & Security Operations
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**  
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**  
-- **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**  
-- **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**  
+- **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**  
 
 ---
@@ -97,3 +96,4 @@
 
 <h2>🤳 Connect with Me:</h2>
 <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
+
