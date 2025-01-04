@@ -24,18 +24,13 @@ I’m passionate about cybersecurity and thrive on tackling complex challenges a
 
 - **[Threat Hunting Incident (Public Facing IP)](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**
     
-- <b> Securing SOC Environment To Be NIST SP 800-53 R5 Compliant </b>
-  - [Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/trevinoparker7/NIST-Compliance/tree/main)
+- **[Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**
 
-- <b> Vulnerability Management with Nessus On Sanbox Network </b>
-  - [Performing Vulnerability Management on a Sandbox environment created with Azure cloud Virtual Machine](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)
- 
-- <b> Active Directory Simulation Using Oracle VirtualBox </b>
-  - [Setting up a Home Lab Running Active Directory and creating 1000 users with powershell](https://github.com/trevinoparker7/AD-Lab)
+- **[Performing Vulnerability Management on a Sandbox environment created with Azure cloud Virtual Machine](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
 
+- **[Setting up a Home Lab Running Active Directory and creating 1000 users with powershell](https://github.com/trevinoparker7/AD-Lab)**
 
  <b> 🔴 RED TEAM 🔴 </b> <br/>
-
 
 - <b> Ransomware Attack On Machine </b>
   - [Setting up a mock student desktop environment and attacking it with Malware](https://github.com/trevinoparker7/ransomware-attack)
@@ -47,8 +42,6 @@ I’m passionate about cybersecurity and thrive on tackling complex challenges a
 <h2>🤖 Coding Projects:</h2>
 
 - 7 Website https://trevinoportfolio2024.netlify.app/ <b><i>My Web Developer Profile</b></i>
-
-
 
 <h2>📺 YouTube Videos</h2>
 
