@@ -20,9 +20,9 @@ I’m passionate about cybersecurity and thrive on tackling complex challenges a
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Inciedent (Tor Browser Usage)](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
+- **[Threat Hunting Incident (Tor Browser Usage)](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
 
-- **[Threat Hunting Inciedent (Public Facing IP)](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**
+- **[Threat Hunting Incident (Public Facing IP)](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**
     
 - <b> Securing SOC Environment To Be NIST SP 800-53 R5 Compliant </b>
   - [Applying updated Standard & Compliance governance framework to cloud environment](https://github.com/trevinoparker7/NIST-Compliance/tree/main)
