@@ -23,7 +23,7 @@
 - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
 - **[STIG Implementations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**  
 - **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
-- 
+ 
 #### 🚨 Threat Hunting & Security Operations
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**  
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**  
