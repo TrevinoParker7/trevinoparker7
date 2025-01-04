@@ -28,10 +28,8 @@
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**  
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**  
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
-- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**  
-
----
-
+- **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
+    
 ### 🔴 RED TEAM
 - **[Simulating a Ransomware Attack on a Mock Student Desktop Environment](https://github.com/trevinoparker7/ransomware-attack)**  
 - **[Keylogger on a Mock Family Home PC](https://github.com/trevinoparker7/keylogger)**  
