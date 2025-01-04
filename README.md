@@ -11,14 +11,14 @@
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
-### 🟣 PURPLE TEAM
+### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc)** *(Live Traffic)*  
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*  
 
 ---
 
-### 🔵 BLUE TEAM
+### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
 - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
 - **[STIG Implementations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**  
@@ -30,7 +30,7 @@
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
     
-### 🔴 RED TEAM
+### 🔴 RED TEAM 🔴
 - **[Simulating a Ransomware Attack on a Mock Student Desktop Environment](https://github.com/trevinoparker7/ransomware-attack)**  
 - **[Keylogger on a Mock Family Home PC](https://github.com/trevinoparker7/keylogger)**  
 
