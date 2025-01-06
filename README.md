@@ -27,6 +27,7 @@
  
 #### 🚨 Threat Hunting & Security Operations
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**  
+- **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/TrevinoParker7/Data-Exfiltration/tree/main)**
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**  
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
