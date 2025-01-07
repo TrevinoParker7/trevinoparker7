@@ -26,7 +26,8 @@
 - **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
  
 #### 🚨 Threat Hunting & Security Operations
-- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**  
+- **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
+- **[Incident Response: Create-Alert-Rule-Brute-Force-Attempt-Detection](https://github.com/TrevinoParker7/Create-Alert-Rule-Brute-Force-Attempt-Detection-/blob/main/README.md)**
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/TrevinoParker7/Data-Exfiltration/tree/main)**
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/TrevinoParker7/Sudden-Network-Slowdowns/tree/main)**
