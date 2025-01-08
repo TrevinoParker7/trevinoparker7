@@ -29,6 +29,7 @@
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/TrevinoParker7/Create-Alert-Rule-Brute-Force-Attempt-Detection-/blob/main/README.md)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/TrevinoParker7/Create-Alert-Rule-PowerShell-Suspicious-Web-Request-/tree/main)**
+- **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/TrevinoParker7/Potential-Impossible-Travel-Alert/tree/main)**
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/TrevinoParker7/Data-Exfiltration/tree/main)**
 - **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/TrevinoParker7/DeviceInfo-Public-Ip-Address-Detected)**
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/TrevinoParker7/Sudden-Network-Slowdowns/tree/main)**
