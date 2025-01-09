@@ -26,6 +26,7 @@
 - **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
  
 #### 🚨 Threat Hunting & Security Operations
+- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/TrevinoParker7/Zero-Day-Ransomware-PwnCrypt-Outbreak/blob/main/README.md)**
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/TrevinoParker7/Create-Alert-Rule-Brute-Force-Attempt-Detection-/blob/main/README.md)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/TrevinoParker7/Create-Alert-Rule-PowerShell-Suspicious-Web-Request-/tree/main)**
