@@ -39,19 +39,15 @@
 ### 🔴 RED TEAM 🔴
 - **[Simulating a Ransomware Attack on a Mock Student Desktop Environment](https://github.com/trevinoparker7/ransomware-attack)**  
 - **[Keylogger on a Mock Family Home PC](https://github.com/trevinoparker7/keylogger)**  
-
 ---
 
-<h2>🤖 Coding Projects:</h2>
-- **[Web Development Portfolio] https://trevinoportfolio2024.netlify.app/
-
-<h2>📺 YouTube Videos:</h2>
-#### 👔 My Internship
-- [How I Got an Internship]()  
-- [My Internship Results]()  
-
+### <h2>🤖 Coding Projects:</h2>
+- **[Web Development Portfolio](https://trevinoportfolio2024.netlify.app)**
 ---
-
+### <h2>📺 YouTube Videos:</h2>
+  
+👔 **[My Internship, How I Got My An Internship and The Results]()**
+---
 <h2>🧰 Tools:</h2>
 
 ### Network
