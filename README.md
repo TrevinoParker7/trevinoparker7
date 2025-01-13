@@ -21,7 +21,7 @@
 ### 🔵 BLUE TEAM 🔵
 #### ⚠️ Vulnerability Management Projects
 - **[Full Vulnerability Management Program Implementation](https://github.com/trevinoparker7/vulnerability-management-program)**  
-- **[STIG Implementations Remediations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**
+- **[20+ STIG Implementations Remediations (PowerShell)](https://github.com/trevinoparker7/stig-implementations)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/TrevinoParker7/Programmatic-Vulnerability-Remediations/tree/main)** 
 - **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
  
