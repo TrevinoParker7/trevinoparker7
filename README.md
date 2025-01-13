@@ -52,7 +52,6 @@
 ---
 ### <h2>📺 YouTube Videos:</h2>
   
-👔 **[My Internship, How I Got My An Internship and The Results]()**
 ---
 <h2>🧰 Tools:</h2>
 
