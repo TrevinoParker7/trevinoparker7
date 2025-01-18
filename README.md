@@ -39,8 +39,8 @@
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
     
 ### 🔴 RED TEAM 🔴
-- **[Simulating a Ransomware Attack on a Mock Student Desktop Environment](https://github.com/trevinoparker7/ransomware-attack)**  
-- **[Keylogger on a Mock Family Home PC](https://github.com/trevinoparker7/keylogger)**  
+- **[Ransomware Attack](https://github.com/trevinoparker7/ransomware-attack)**  
+- **[Keylogger](https://github.com/trevinoparker7/keylogger)**  
 
 ###   IT Projects
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
