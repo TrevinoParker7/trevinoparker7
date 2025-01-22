@@ -33,6 +33,7 @@
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/TrevinoParker7/Create-Alert-Rule-Brute-Force-Attempt-Detection-/blob/main/README.md)**
 - **[Incident Response: Email-Phishing (Urgent Account Suspended)](https://github.com/TrevinoParker7/Incident-Response-Email-Phishing-/blob/main/README.md)**
+- **[Incident Response: Email Analysis (Phishing)](https://github.com/TrevinoParker7/Email-Analysis-Phishing)**
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/TrevinoParker7/Create-Alert-Rule-PowerShell-Suspicious-Web-Request-/tree/main)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/TrevinoParker7/Potential-Impossible-Travel-Alert/tree/main)**
 - **[Threat Hunting Incident: Data Exfiltration from PIP'd Employee](https://github.com/TrevinoParker7/Data-Exfiltration/tree/main)**
