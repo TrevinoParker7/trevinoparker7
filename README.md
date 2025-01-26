@@ -28,6 +28,7 @@
 - **[Vulnerability Management in Azure Sandbox](https://github.com/trevinoparker7/nessus-vulnerability/blob/main/README.md)**
  
 #### 🚨 Threat Hunting & Security Operations
+- **[Incident Response: Phishing via Fake Software Update )](https://github.com/TrevinoParker7/PhishingSoftwareUpdate)**
 - **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/TrevinoParker7/Zero-Day-Ransomware-PwnCrypt-Outbreak/blob/main/README.md)**
 - **[Incident Response: Remote Code Execution Detected](https://github.com/TrevinoParker7/Remote-Code-Execution-Detection/blob/main/README.md)**
 - **[Threat Hunting Incident: Tor Browser Usage](https://github.com/trevinoparker7/threat-hunting-scenario-tor)**
