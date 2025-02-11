@@ -45,7 +45,10 @@
     
 ### 🔴 RED TEAM 🔴
 - **[Ransomware Attack](https://github.com/trevinoparker7/ransomware-attack)**  
-- **[Keylogger](https://github.com/trevinoparker7/keylogger)**  
+- **[Keylogger](https://github.com/trevinoparker7/keylogger)**
+
+### GRC Analyst ###
+- **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/TrevinoParker7/GRC-Analyst-Project)**
 
 ###   IT Projects
 - **[Active Directory Lab: Creating 1000 Users with PowerShell](https://github.com/trevinoparker7/AD-Lab)**
