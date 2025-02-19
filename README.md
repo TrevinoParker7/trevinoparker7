@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/trevinoparker/">Trevino Parker</a>!</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" />
+</h1>
+
 <h3 align="center">Programmer | Cybersecurity Professional 🔐</h3>
 
 <div align="center">
@@ -105,4 +108,13 @@
 
 <h2>🤳 Connect with Me:</h2>
 <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
+
+
+
+
+
+
+
+
+
 
