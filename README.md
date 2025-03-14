@@ -104,7 +104,7 @@
 ---
 
 <h2>📜 Certifications:</h2>
-- CISSP: Expected March 2025 <br>- CompTIA Security+: Expected March 2025 <br>- CompTIA Network+: Expected March 2025
+- CISSP: Expected June 2025 <br>- CompTIA Security+: Expected May 2025 <br>- CompTIA Network+: Expected April 2025
 
 <h2>🤳 Connect with Me:</h2>
 <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
