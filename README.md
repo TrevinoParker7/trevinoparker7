@@ -46,10 +46,6 @@
 - **[Threat Hunting Incident: Sudden Network Slowdowns](https://github.com/TrevinoParker7/Sudden-Network-Slowdowns/tree/main)**
 - **[Compliance Framework Implementation (NIST)](https://github.com/trevinoparker7/NIST-Compliance/tree/main)**   
     
-### 🔴 RED TEAM 🔴
-- **[Ransomware Attack](https://github.com/trevinoparker7/ransomware-attack)**  
-- **[Keylogger](https://github.com/trevinoparker7/keylogger)**
-
 ### GRC Analyst ###
 - **[Corporate Cybersecurity Assessment utilizing NIST CyberSecurity Framework (CSF) 2.0](https://github.com/TrevinoParker7/GRC-Analyst-Project)**
 
