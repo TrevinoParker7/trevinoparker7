@@ -14,6 +14,8 @@
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
+- **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
+
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc)** *(Live Traffic)*
