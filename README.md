@@ -14,6 +14,9 @@
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
+### 🤖 Agentic AI Team 🤖
+#### 🎯 Agentic AI Projects
+
 - **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
 
 ### 🟣 PURPLE TEAM 🟣
