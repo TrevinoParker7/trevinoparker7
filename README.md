@@ -18,6 +18,7 @@
 #### 🎯 Agentic AI Projects
 
 - **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
+- **[Agentic AI Vulnerability_Management](https://github.com/TrevinoParker7/Agentic_AI_Vulnerability_Management/tree/main)**
 
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
