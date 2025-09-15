@@ -64,7 +64,7 @@
 - **[Web Development Portfolio](https://trevinoportfolio2024.netlify.app)**
 ---
 ### <h2>📺 YouTube Videos:</h2>
-  
+- **[My YouTube Channel](https://www.youtube.com/@AgenticAITradeSkool1)**  
 ---
 <h2>🧰 Tools:</h2>
 
@@ -108,8 +108,9 @@
 <h2>📜 Certifications:</h2>
 - CISSP: Expected Dec. 2025 <br>- CompTIA Security+: Expected Oct. 2025 <br>- CompTIA Network+: Expected Nov. 2025
 
-<h2>🤳 Connect with Me:</h2>
-<a href="https://www.linkedin.com/in/trevinoparker"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="LinkedIn" /></a>
+## 🤳 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevinoparker)
+
 
 
 
