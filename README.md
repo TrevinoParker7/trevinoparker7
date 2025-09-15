@@ -169,7 +169,6 @@
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys-0072C6?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
----
 
 <h2>📜 Certifications:</h2>
 - CISSP: Expected Dec. 2025 <br>- CompTIA Security+: Expected Oct. 2025 <br>- CompTIA Network+: Expected Nov. 2025
