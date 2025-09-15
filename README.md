@@ -68,6 +68,24 @@
 ---
 <h2>🧰 Tools:</h2>
 
+### Agentic AI
+<div>
+    <img src="https://img.shields.io/badge/-LangChain-1C3C3C?&style=for-the-badge&logo=chainlink&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LangGraph-6C63FF?&style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LlamaIndex-FF9900?&style=for-the-badge&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AutoGPT-000000?&style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autogen-FF6F00?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrewAI-3C6E71?&style=for-the-badge&logo=airplayaudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MCP_(Model_Context_Protocol)-283593?&style=for-the-badge&logo=protocols&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenAI_API-412991?&style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenAI_SDK-005BBB?&style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Anthropic_Claude-00897B?&style=for-the-badge&logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vector_Databases-004D40?&style=for-the-badge&logo=neo4j&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RAG_(Retrieval_Augmented_Generation)-37474F?&style=for-the-badge&logo=knowledgebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Multi_Agent_Systems-6A1B9A?&style=for-the-badge&logo=airbnb&logoColor=white" />
+</div>
+
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
