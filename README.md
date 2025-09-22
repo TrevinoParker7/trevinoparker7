@@ -139,29 +139,11 @@
     <img src="https://img.shields.io/badge/-SOX-5E35B1?&style=for-the-badge&logo=ledger&logoColor=white" />
 </div>
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kali%20Linux-557C89?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
-### Security Testing
-<div>
-    <img src="https://img.shields.io/badge/-Atomic_Red_Team-FF0000?&style=for-the-badge&logo=atomic-red-team&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
 
 ### Vulnerability Management
@@ -169,6 +151,8 @@
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys-0072C6?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
+
+
 
 <h2>📜 Certifications:</h2>
 - CISSP: Expected Dec. 2025 <br>- CompTIA Security+: Expected Oct. 2025 <br>- CompTIA Network+: Expected Nov. 2025
