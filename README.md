@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" />
 </h1>
 
-<h3 align="center">Programmer | Cybersecurity Professional & Agentic AI Engineer🔐</h3>
+<h3 align="center">👋 AI/ML Security Engineer & GRC Analyst & Vulnerability Management </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,7 +10,11 @@
 
 ---
 
-🔍 Passionate about solving complex cybersecurity challenges with hands-on experience in SIEM implementations, vulnerability management, and threat detection. Explore my projects to see how I’ve enhanced security operations and processes!
+I specialize in securing **multi-agent and agentic AI systems** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
+
+I drive **security automation**, vulnerability management, and incident response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
+
+As a GRC Analyst, I use **Drata, Vanta, Tenable, Qualys, Defender, Python, and Bash** to automate governance, risk assessments, and remediation—reducing vulnerabilities and strengthening enterprise defenses.  
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
