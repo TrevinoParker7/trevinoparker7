@@ -23,7 +23,8 @@ As a GRC Analyst, I use **Drata, Vanta, Tenable, Qualys, Defender, Python, and B
 
 - **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
 - **[Agentic AI Vulnerability_Management](https://github.com/TrevinoParker7/Agentic_AI_Vulnerability_Management/tree/main)**
-
+- **[Agentic AI & LLM & AI/ML GRC Analyst Audit ](https://github.com/TrevinoParker7/AI-ML_Audit-Multiple_Agentic_AI_Audit/tree/main)**
+  
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/trevinoparker7/Cloud-Soc)** *(Live Traffic)*
