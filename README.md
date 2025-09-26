@@ -12,7 +12,7 @@
 
 I specialize in securing **Multi-Agent and Agentic AI systems** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
 
-I drive **security automation**, Vulnerability mManagement, GRC Analyst Audits and Incident Response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
+I drive **security automation**, Vulnerability Management, GRC Analyst Audits and Incident Response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
 
 As a GRC Analyst, I use **Drata, Vanta, Tenable, Qualys, Defender, Python, and Bash** to automate governance, risk assessments, and remediation—reducing vulnerabilities and strengthening enterprise defenses.  
 
