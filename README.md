@@ -10,7 +10,7 @@
 
 ---
 
-I specialize in securing **Multi-Agent and Agentic AI systems** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
+I specialize in securing **Multi-Agent, Agentic AI systems and LLM** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
 
 I drive **security automation**, Vulnerability Management, GRC Analyst Audits and Incident Response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
 
