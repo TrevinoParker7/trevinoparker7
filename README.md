@@ -6,6 +6,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/trevinoparker"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+     <a href="https://www.youtube.com/@AgenticAITradeSkool1"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
 </div>
 
 ---
