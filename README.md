@@ -13,9 +13,9 @@
 
 I specialize in securing **Multi-Agent, Agentic AI systems and LLM** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
 
-I drive **security automation**, Vulnerability Management, GRC Analyst Audits and Incident Response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
+I drive **security automation**, Vulnerability Management, GRC Engineer Audits and Incident Response, leveraging standards like **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, CMMC**.  
 
-As a GRC Analyst, I use **Drata, Vanta, Tenable, Qualys, Defender, Python, and Bash** to automate governance, risk assessments, and remediation—reducing vulnerabilities and strengthening enterprise defenses.  
+As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defender, Python, and Bash** to automate governance, risk assessments, and remediation—reducing vulnerabilities and strengthening enterprise defenses.  
 
 <h2>👨‍💻 Cloud/Cybersecurity Projects:</h2>
 
@@ -25,6 +25,11 @@ As a GRC Analyst, I use **Drata, Vanta, Tenable, Qualys, Defender, Python, and B
 - **[Agentic AI & LLM & AI/ML GRC Analyst Audit ](https://github.com/TrevinoParker7/AI-ML_Audit-Multiple_Agentic_AI_Audit/tree/main)**
 - **[Agentic AI SOC Analyst](https://github.com/TrevinoParker7/Agentic_AI_SOC_Analyst_Threat_Hunter/tree/main)**
 - **[Agentic AI Vulnerability_Management](https://github.com/TrevinoParker7/Agentic_AI_Vulnerability_Management/tree/main)**
+
+### 🤖 GRC Engineer Team 🤖
+#### 🎯 GRC Engineer Projects
+
+Coming Soon!!!
   
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
