@@ -11,6 +11,15 @@
 ![Visitors](https://komarev.com/ghpvc/?username=TrevinoParker&label=Visitors&color=brightgreen&style=for-the-badge)
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
+
 ---
 
 I specialize in securing **Multi-Agent, Agentic AI systems and LLM** against model poisoning, prompt injection, data exfiltration, and adversarial attacks. I apply **OWASP Top 10 for LLMs**, manage **IAM, RBAC, OPA/Rego**, secrets, and key management to ensure secure, compliant AI/ML pipelines.  
@@ -174,10 +183,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 ## 🤳 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trevinoparker)
 
-
-
   
-
 
 
 
