@@ -29,7 +29,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 ### 🚨 GRC Engineer Team 🚨
 #### 🎯 GRC Engineer Projects
 
-Coming Soon!!!
+- **[AWS_Automated_Access_Review](https://github.com/TrevinoParker7/AWS_Automated_Access_Review_1/tree/main/aws_automated_access_review_1)**
   
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
