@@ -42,6 +42,8 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 - **[AWS_Security_Hub_Compliance_ Analyzer](https://github.com/TrevinoParker7/Security_Hub-_Compliance_Analyzer1)**
 - **[AWS_Security_Hub_To_Excel_Pipeline](https://github.com/TrevinoParker7/AWS_Security_Hub_To_Excel_Pipeline/tree/main)**
 - **[Password_Policy_Verification](https://github.com/TrevinoParker7/Password_Policy_Verification/blob/main/README.md)**
+- **[Inactive_Key_Rotation_Check](https://github.com/TrevinoParker7/Inactive_Key_Rotation_Check/tree/main)**
+
 
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
