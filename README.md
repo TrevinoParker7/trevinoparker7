@@ -34,6 +34,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 
 ### 🤖 Agentic AI Engineer Projects 🤖
 
+- **[Agentic AI Anti_Hulluncination_Engine](https://github.com/TrevinoParker7/Help_Reduce_Halluncination)**
 - **[Agentic AI Stock Trader](https://github.com/TrevinoParker7/Agentic_AI_Stock_Trader/tree/main)**
 - **[Agentic AI Identity](https://github.com/TrevinoParker7/AI_Identity)**
 - **[Agentic AI Red_Team_Scanner](https://github.com/TrevinoParker7/Red_Team_Scanner/tree/main)**
