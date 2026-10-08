@@ -35,6 +35,7 @@ As a GRC Engineer, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Defen
 ### 🤖 Forward Deployed Engineer Training🤖
 
 - **[Free Forward Deployed Engineer Lifecycle Training](https://fdelifecycle.vercel.app/)**
+- **[Free Forward Deployed Engineer Intro Training](https://youtu.be/GgOL4YuzU2Q?si=PzfVoe9xsYaLqLdc)**
 
 ### 🤖 Agentic AI Engineer Projects 🤖
 
